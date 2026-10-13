@@ -1,0 +1,6 @@
+{
+    "greetingTemplate": "Hello %1, What a beautiful day. Server current date and time is %2",
+    "writeSuccess": "Appended text to file.txt successfully.",
+    "writeMissingText": "Error: Missing 'text' query parameter.",
+    "fileNotFound": "404 Error: File \"%1\" not found on this server."
+}
